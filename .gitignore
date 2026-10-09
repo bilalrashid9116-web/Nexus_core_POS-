@@ -1,0 +1,8 @@
+/dist
+/node_modules
+/release
+*.ps1
+App.db
+App.db-shm
+App.db-wal
+post.md

@@ -1,0 +1,27 @@
+# Privacy Policy – Nexus POS by Nexus Core Systems
+
+**Effective Date:** September 29, 2026
+
+## Information Collection
+This application does not collect personal information without user consent. All sales, inventory, customer, staff and loyalty data are stored locally on the user's device. Optional features such as email or SMS notifications may require the user to provide contact details, which are used solely for delivering alerts.
+
+## Information Usage
+Data processed within the app is used exclusively for point-of-sale operations, inventory tracking, staff management, reporting and customer loyalty management. Optional integrations (e.g., notifications) are configured by the user and are not enabled by default.
+
+## Information Sharing
+We do not sell, rent, or share user data with third parties. Data may only be transmitted to external services explicitly chosen by the user (e.g., email or SMS providers).
+
+## Security
+We implement reasonable technical and organizational measures to protect stored data against unauthorized access, alteration, or disclosure. Since data is stored locally, users are responsible for securing their own devices and keeping backups.
+
+## User Control
+Users may back up, restore, or delete their data at any time. Uninstalling the application does not remove the data folder automatically; it can be deleted manually.
+
+## Children's Privacy
+This application is not intended for use by children under 13 years of age. We do not knowingly collect information from children.
+
+## Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected in the app.
+
+## Contact
+For questions or concerns regarding this Privacy Policy, please contact Nexus Core Systems.
